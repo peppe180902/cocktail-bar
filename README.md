@@ -7,3 +7,4 @@ Creato utilizzando le seguenti risorse:
 -JAVASCRIPT
 -REACT JS
 -VITE
+per visualizzare il sito: https://cocktailverse.netlify.app/
